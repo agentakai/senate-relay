@@ -260,7 +260,7 @@ def load_senators(session: Session) -> dict[str, list[dict]]:
 
 def state_of(first: str, last: str, senators: dict[str, list[dict]]) -> str | None:
     """The state of the one current senator with this name; None when none or several fit (never a guess)."""
-    same = senators.get(_plain(last), [])
+    same = senators.get(_plain(last.split(",")[0]), [])  # the grid prints "King, Jr." and "Justice, II"
     if len(same) == 1:
         return same[0]["state"]
     given = _plain(first.split(" ")[0]) if first.strip() else ""
