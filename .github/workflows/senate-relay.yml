@@ -1,0 +1,34 @@
+name: Senate eFD relay
+
+# Reads efdsearch.senate.gov from a GitHub-hosted runner (the site refuses addresses outside the US) and commits
+# feed.json for the trading desk (congress-senate-source spec). 00:30 UTC: the desk polls from 01:00 UTC.
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: senate-relay
+  cancel-in-progress: false
+
+jobs:
+  relay:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: Read the window
+        run: python3 efd_relay.py --out . --window-days 60
+      - name: Commit what changed
+        run: |
+          git config user.name "senate-relay"
+          git config user.email "senate-relay@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "nothing new"
+          else
+            git commit -m "relay: $(date -u +%Y-%m-%dT%H:%MZ)" && git push
+          fi
