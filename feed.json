@@ -1,0 +1,1574 @@
+{
+ "generated_at": "2026-10-21T09:31:02.458598+00:00",
+ "window_days": 60,
+ "since": "2026-08-22",
+ "filings": [
+  {
+   "uuid": "51455bcd-4966-4e77-b481-09897ada81ae",
+   "kind": "ptr",
+   "first": "John",
+   "last": "Boozman",
+   "office": "Boozman, John (Senator)",
+   "title": "Periodic Transaction Report for 12/08/2025 (Amendment 1)",
+   "filed": "2026-08-24",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/",
+   "state": "AR",
+   "transactions": [
+    {
+     "date": "11/21/2025",
+     "owner": "Joint",
+     "ticker": "VEA",
+     "asset": "Vanguard FTSE Developed Markets ETF",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "11/21/2025",
+     "owner": "Joint",
+     "ticker": "VNQI",
+     "asset": "Vanguard Global ex-U.S. Real Estate ETF",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "11/21/2025",
+     "owner": "Joint",
+     "ticker": "TPYP",
+     "asset": "Tortoise North Amer Pipeline Fund",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "11/13/2025",
+     "owner": "Joint",
+     "ticker": "CRM",
+     "asset": "Salesforce Inc",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "11/20/2025",
+     "owner": "Joint",
+     "ticker": "RNWGX",
+     "asset": "NEW WORLD FUND INC - Class R-6",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "11/21/2025",
+     "owner": "Joint",
+     "ticker": "LLY",
+     "asset": "Eli Lilly and Company",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "11/21/2025",
+     "owner": "Joint",
+     "ticker": "IVV",
+     "asset": "iShares Core S&P 500 ETF",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "11/21/2025",
+     "owner": "Joint",
+     "ticker": "IWM",
+     "asset": "iShares Russell 2000 ETF",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "11/20/2025",
+     "owner": "Joint",
+     "ticker": "EFA",
+     "asset": "iShares MSCI EAFE ETF",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "11/06/2025",
+     "owner": "Joint",
+     "ticker": "AAXJ",
+     "asset": "iShares MSCI All Country Asia ex Japan ETF",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "11/20/2025",
+     "owner": "Joint",
+     "ticker": "GEM",
+     "asset": "Goldman Sachs ActiveBeta Emerging Markets Equity E",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "11/21/2025",
+     "owner": "Joint",
+     "ticker": "FISV",
+     "asset": "Fiserv Inc",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "11/21/2025",
+     "owner": "Joint",
+     "ticker": "FTGC",
+     "asset": "First Trust Global Tactical Commodity Strategy Fun",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "11/21/2025",
+     "owner": "Joint",
+     "ticker": "EIPI",
+     "asset": "First Trust Exchange-Traded Fund VIII FT Energy In",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    }
+   ]
+  },
+  {
+   "uuid": "257795ae-e1b2-411d-b562-8fe4c2a4f2a1",
+   "kind": "ptr",
+   "first": "David H",
+   "last": "McCormick",
+   "office": "McCormick, David H. (Senator)",
+   "title": "Periodic Transaction Report for 08/27/2026",
+   "filed": "2026-08-27",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/",
+   "state": "PA",
+   "transactions": [
+    {
+     "date": "08/19/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "GS Managed Structured Note Strategy S&P 500 Linked Note",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$50,001 - $100,000",
+     "comment": "--"
+    },
+    {
+     "date": "08/18/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "GS Managed Structured Note Strategy MSCI EAFE Linked Note",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$250,001 - $500,000",
+     "comment": "--"
+    },
+    {
+     "date": "08/17/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "GS Managed Structured Note Strategy S&P 500 Linked Note",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "08/17/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "GS Managed Structured Note Strategy S&P 500 Linked Note",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "08/12/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "GS Managed Structured Note Strategy S&P 500 Linked Note",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "08/12/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "GS Managed Structured Note Strategy S&P 500 Linked Note",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "08/11/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "GS Managed Structured Note Strategy MSCI EAFE Linked Note",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "08/10/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "GS Managed Structured Note Strategy S&P 500 Linked Note",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$250,001 - $500,000",
+     "comment": "--"
+    },
+    {
+     "date": "08/10/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "GS Managed Structured Note Strategy S&P 500 Linked Note",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "08/05/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "GS Managed Structured Note Strategy S&P 500 Linked Note",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "08/05/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "GS Managed Structured Note Strategy S&P 500 Linked Note",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "08/04/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "GS Managed Structured Note Strategy MSCI EAFE Linked Note",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "08/04/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "GS Managed Structured Note Strategy MSCI EAFE Linked Note",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "08/03/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "GS Managed Structured Note Strategy S&P 500 Linked Note",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "08/03/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "GS Managed Structured Note Strategy S&P 500 Linked Note",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "07/31/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "PENNSYLVANIA ST TPK COMMN OIL REV Rate/Coupon: 5% Matures: 2026-12-01",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Full)",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "07/31/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "WASHINGTON ST GO Rate/Coupon: 5% Matures: 2033-02-01",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$50,001 - $100,000",
+     "comment": "--"
+    },
+    {
+     "date": "07/31/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "SPRINGFIELD TWP SCH DIST PA GO Rate/Coupon: 5% Matures: 2030-11-15",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$50,001 - $100,000",
+     "comment": "--"
+    },
+    {
+     "date": "07/31/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "PHILADELPHIA PA AUTH FOR INDL REV Rate/Coupon: 5% Matures: 2031-12-01",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "07/31/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "PENNSYLVANIA ST TPK COMMN REV Rate/Coupon: 5.25% Matures: 2030-07-15",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "07/31/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "PENNSYLVANIA ST HIGHER EDL REV Rate/Coupon: 4% Matures: 2031-06-15",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "07/31/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "PENNSYLVANIA ST GO Rate/Coupon: 5% Matures: 2035-04-01",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$50,001 - $100,000",
+     "comment": "--"
+    },
+    {
+     "date": "07/31/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "PENNSYLVANIA ST GO Rate/Coupon: 5% Matures: 2034-04-01",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "07/31/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "PENNSYLVANIA ST GO Rate/Coupon: 5% Matures: 2033-08-15",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$50,001 - $100,000",
+     "comment": "--"
+    },
+    {
+     "date": "07/31/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "PENNSYLVANIA ST GO Rate/Coupon: 5% Matures: 2035-08-15",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$50,001 - $100,000",
+     "comment": "--"
+    },
+    {
+     "date": "07/31/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "OXFORD PA AREA SCH DIST GO Rate/Coupon: 5% Matures: 2032-09-01",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "07/31/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "NORTHAMPTON CNTY PA GEN PURP A REV Rate/Coupon: 5% Matures: 2034-11-15",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$50,001 - $100,000",
+     "comment": "--"
+    },
+    {
+     "date": "07/31/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "DEL CNTY PA AUTH COLLEGE REV Rate/Coupon: 5% Matures: 2026-10-01",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$50,001 - $100,000",
+     "comment": "--"
+    },
+    {
+     "date": "07/31/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "DALLAS TEX INDPT SCH DIST GO Rate/Coupon: 5% Matures: 2033-02-15",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$50,001 - $100,000",
+     "comment": "--"
+    },
+    {
+     "date": "07/31/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "CORPUS CHRISTI TEX UTIL SYS REV Rate/Coupon: 5% Matures: 2029-07-15",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$50,001 - $100,000",
+     "comment": "--"
+    },
+    {
+     "date": "07/31/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "CHESTER CNTY PA SCH AUTH SCH REV Rate/Coupon: 5% Matures: 2027-03-01",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$50,001 - $100,000",
+     "comment": "--"
+    },
+    {
+     "date": "07/31/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "ALVIN TEX INDPT SCH DIST GO Rate/Coupon: 5% Matures: 2035-02-15",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$50,001 - $100,000",
+     "comment": "--"
+    },
+    {
+     "date": "07/31/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "ALLEGHENY CNTY HIGHER ED BLDG REV Rate/Coupon: 5% Matures: 2032-02-01",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$50,001 - $100,000",
+     "comment": "--"
+    },
+    {
+     "date": "07/30/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "WASHINGTON ST GO Rate/Coupon: 5% Matures: 2033-02-01",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "07/30/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "SPRINGFIELD TWP SCH DIST PA GO Rate/Coupon: 5% Matures: 2030-11-15",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "07/30/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "PHILADELPHIA PA AUTH FOR INDL REV Rate/Coupon: 5% Matures: 2031-12-01",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "07/30/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "PENNSYLVANIA ST TPK COMMN TPK REV Rate/Coupon: 5% Matures: 2030-12-01",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "07/30/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "PENNSYLVANIA ST TPK COMMN OIL REV Rate/Coupon: 5% Matures: 2026-12-01",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "07/30/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "PENNSYLVANIA ST HIGHER EDL REV Rate/Coupon: 4% Matures: 2031-06-15",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "07/30/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "PENNSYLVANIA ST GO Rate/Coupon: 5% Matures: 2035-04-01",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$50,001 - $100,000",
+     "comment": "--"
+    },
+    {
+     "date": "07/30/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "PENNSYLVANIA ST GO Rate/Coupon: 5% Matures: 2034-04-01",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "07/30/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "PENNSYLVANIA ST GO Rate/Coupon: 5% Matures: 2033-08-15",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "07/30/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "PENNSYLVANIA ST GO Rate/Coupon: 5% Matures: 2035-08-15",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$50,001 - $100,000",
+     "comment": "--"
+    },
+    {
+     "date": "07/30/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "OXFORD PA AREA SCH DIST GO Rate/Coupon: 5% Matures: 2032-09-01",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$50,001 - $100,000",
+     "comment": "--"
+    },
+    {
+     "date": "07/30/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "NORTHAMPTON CNTY PA GEN PURP A REV Rate/Coupon: 5% Matures: 2034-11-15",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "07/30/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "DALLAS TEX INDPT SCH DIST GO Rate/Coupon: 5% Matures: 2033-02-15",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "07/30/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "CORPUS CHRISTI TEX UTIL SYS REV Rate/Coupon: 5% Matures: 2029-07-15",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "07/30/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "CHESTER CNTY PA SCH AUTH SCH REV Rate/Coupon: 5% Matures: 2027-03-01",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "07/30/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "ALVIN TEX INDPT SCH DIST GO Rate/Coupon: 5% Matures: 2035-02-15",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "07/30/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "ALLEGHENY CNTY HIGHER ED BLDG REV Rate/Coupon: 5% Matures: 2032-02-01",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$250,001 - $500,000",
+     "comment": "--"
+    },
+    {
+     "date": "07/28/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "GS Managed Structured Note Strategy MSCI EAFE Linked Note",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "08/06/2026",
+     "owner": "Self",
+     "ticker": "--",
+     "asset": "NORTHERN YORK CNTY PA SCH DIST GEN Rate/Coupon: 5.25% Matures: 2051-11-15",
+     "asset_type": "Municipal Security",
+     "type": "Purchase",
+     "amount": "$250,001 - $500,000",
+     "comment": "--"
+    }
+   ]
+  },
+  {
+   "uuid": "5a76ceb6-2d1d-4430-8a17-6512bcb402be",
+   "kind": "ptr",
+   "first": "Christopher A",
+   "last": "Coons",
+   "office": "Coons, Chris (Senator)",
+   "title": "Periodic Transaction Report for 08/28/2026",
+   "filed": "2026-08-28",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/5a76ceb6-2d1d-4430-8a17-6512bcb402be/",
+   "state": "DE",
+   "transactions": [
+    {
+     "date": "08/07/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "W.L. Gore & Associates, Inc. Company: W.L. Gore & Associates, Inc. (Newark, Delaware) Description: Advanced materials manufacturing",
+     "asset_type": "Non-Public Stock",
+     "type": "Sale (Partial)",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    }
+   ]
+  },
+  {
+   "uuid": "929216d5-5dbd-429c-858c-1e9332924627",
+   "kind": "paper",
+   "first": "RICHARD",
+   "last": "BLUMENTHAL",
+   "office": "Senator",
+   "title": "Periodic Transaction Report for 08/31/2026",
+   "filed": "2026-08-31",
+   "url": "https://efdsearch.senate.gov/search/view/paper/929216d5-5dbd-429c-858c-1e9332924627/",
+   "state": "CT",
+   "transactions": []
+  },
+  {
+   "uuid": "f8d003c0-ca1e-4c39-9d66-632d220180e1",
+   "kind": "ptr",
+   "first": "Sheldon",
+   "last": "Whitehouse",
+   "office": "Whitehouse, Sheldon (Senator)",
+   "title": "Periodic Transaction Report for 09/02/2026",
+   "filed": "2026-09-02",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/f8d003c0-ca1e-4c39-9d66-632d220180e1/",
+   "state": "RI",
+   "transactions": [
+    {
+     "date": "08/06/2026",
+     "owner": "Self",
+     "ticker": "--",
+     "asset": "SDZNY- Sandoz Group AG ADR",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "08/13/2026",
+     "owner": "Self",
+     "ticker": "NVDA",
+     "asset": "NVIDIA Corporation - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "08/13/2026",
+     "owner": "Spouse",
+     "ticker": "NVDA",
+     "asset": "NVIDIA Corporation - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "08/13/2026",
+     "owner": "Spouse",
+     "ticker": "LRCX",
+     "asset": "Lam Research Corporation - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "08/12/2026",
+     "owner": "Spouse",
+     "ticker": "AMGN",
+     "asset": "Amgen Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    }
+   ]
+  },
+  {
+   "uuid": "a0431e36-2161-4e97-b99a-74a966d7193a",
+   "kind": "ptr",
+   "first": "John",
+   "last": "Fetterman",
+   "office": "Fetterman, John (Senator)",
+   "title": "Periodic Transaction Report for 09/10/2026",
+   "filed": "2026-09-09",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/a0431e36-2161-4e97-b99a-74a966d7193a/",
+   "state": "PA",
+   "transactions": [
+    {
+     "date": "08/18/2026",
+     "owner": "Child",
+     "ticker": "--",
+     "asset": "TRANSCANADA PIPELINES LTD SER 2026-A Rate/Coupon: 6.125% Matures: 2056-10-17",
+     "asset_type": "Corporate Bond",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    }
+   ]
+  },
+  {
+   "uuid": "e5144197-e49c-4f74-bec4-19f1f3124668",
+   "kind": "ptr",
+   "first": "Cory A",
+   "last": "Booker",
+   "office": "Booker, Cory (Senator)",
+   "title": "Periodic Transaction Report for 09/09/2026",
+   "filed": "2026-09-09",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/e5144197-e49c-4f74-bec4-19f1f3124668/",
+   "state": "NJ",
+   "transactions": [
+    {
+     "date": "08/18/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "webAI, Inc. Company: webAI, Inc. (Austin, TX) Description: Technology Company",
+     "asset_type": "Non-Public Stock",
+     "type": "Sale (Full)",
+     "amount": "$50,001 - $100,000",
+     "comment": "--"
+    },
+    {
+     "date": "08/11/2026",
+     "owner": "Spouse",
+     "ticker": "NVDA",
+     "asset": "NVIDIA Corporation - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "08/11/2026",
+     "owner": "Spouse",
+     "ticker": "NFLX",
+     "asset": "Netflix, Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "08/11/2026",
+     "owner": "Spouse",
+     "ticker": "MCD",
+     "asset": "McDonald's Corporation Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "08/11/2026",
+     "owner": "Spouse",
+     "ticker": "AMZN",
+     "asset": "Amazon.com, Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "08/11/2026",
+     "owner": "Spouse",
+     "ticker": "ALNY",
+     "asset": "Alnylam Pharmaceuticals, Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "08/11/2026",
+     "owner": "Spouse",
+     "ticker": "JD",
+     "asset": "JD.com, Inc. - American Depositary Shares",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    }
+   ]
+  },
+  {
+   "uuid": "0632f542-7ac2-46e4-bd9c-603e3673f0cd",
+   "kind": "ptr",
+   "first": "John",
+   "last": "Boozman",
+   "office": "Boozman, John (Senator)",
+   "title": "Periodic Transaction Report for 09/11/2026",
+   "filed": "2026-09-11",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/0632f542-7ac2-46e4-bd9c-603e3673f0cd/",
+   "state": "AR",
+   "transactions": [
+    {
+     "date": "08/27/2026",
+     "owner": "Joint",
+     "ticker": "OTIS",
+     "asset": "Otis Worldwide Corporation Common Stock",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "08/20/2026",
+     "owner": "Joint",
+     "ticker": "SPYM",
+     "asset": "Tradr 2X Long SPY Monthly ETF",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "08/19/2026",
+     "owner": "Joint",
+     "ticker": "IJR",
+     "asset": "iShares Core S&P Small-Cap ETF",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "08/19/2026",
+     "owner": "Joint",
+     "ticker": "AVUV",
+     "asset": "Avantis U.S. Small Cap Value ETF",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "08/13/2026",
+     "owner": "Joint",
+     "ticker": "FSLR",
+     "asset": "First Solar, Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    }
+   ]
+  },
+  {
+   "uuid": "6298991b-e48f-4b11-9bbb-dfc94a7e1b32",
+   "kind": "ptr",
+   "first": "John",
+   "last": "Boozman",
+   "office": "Boozman, John (Senator)",
+   "title": "Periodic Transaction Report for 09/11/2026",
+   "filed": "2026-09-11",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/6298991b-e48f-4b11-9bbb-dfc94a7e1b32/",
+   "state": "AR",
+   "transactions": [
+    {
+     "date": "08/27/2026",
+     "owner": "Joint",
+     "ticker": "IVV",
+     "asset": "iShares Core S&P 500 ETF",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "08/20/2026",
+     "owner": "Joint",
+     "ticker": "JNJ",
+     "asset": "Johnson & Johnson Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "08/19/2026",
+     "owner": "Joint",
+     "ticker": "WWSYX",
+     "asset": "Westwood Quality SmallCap Fund - Westwood Quality SmallCap Fund Ultra Shares",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "08/13/2026",
+     "owner": "Joint",
+     "ticker": "CEG",
+     "asset": "Constellation Energy Corporation - Common Stock When-Issued",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    }
+   ]
+  },
+  {
+   "uuid": "e67c6e56-c81e-4e74-b960-849a460165e2",
+   "kind": "ptr",
+   "first": "Angus S",
+   "last": "King, Jr.",
+   "office": "King, Angus (Senator)",
+   "title": "Periodic Transaction Report for 09/14/2026",
+   "filed": "2026-09-14",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/e67c6e56-c81e-4e74-b960-849a460165e2/",
+   "state": null,
+   "transactions": [
+    {
+     "date": "08/05/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "EA - Electronic Arts Inc",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    }
+   ]
+  },
+  {
+   "uuid": "b999bc0e-3eb0-4ca9-ab07-8e8f2e04b41f",
+   "kind": "ptr",
+   "first": "Alan",
+   "last": "Armstrong",
+   "office": "Armstrong, Alan (Senator)",
+   "title": "Periodic Transaction Report for 09/17/2026",
+   "filed": "2026-09-17",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/b999bc0e-3eb0-4ca9-ab07-8e8f2e04b41f/",
+   "state": "OK",
+   "transactions": [
+    {
+     "date": "08/20/2026",
+     "owner": "Joint",
+     "ticker": "WMB",
+     "asset": "Williams Companies, Inc. (The) Common Stock Option Type: Call Strike price: $75.00 Expires: 2026-08-21",
+     "asset_type": "Stock Option",
+     "type": "Purchase",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "08/04/2026",
+     "owner": "Joint",
+     "ticker": "--",
+     "asset": "Electronic Arts Inc. (EA)",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "Sale due to corporate transaction"
+    },
+    {
+     "date": "08/14/2026",
+     "owner": "Joint",
+     "ticker": "--",
+     "asset": "AvalonBay Communities, Inc. Common Stock (AVB) (Exchanged) VMRK - Vivmark Residential Common Shares of Beneficial Interest (Received)",
+     "asset_type": "Stock",
+     "type": "Exchange",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "08/19/2026",
+     "owner": "Joint",
+     "ticker": "WMB",
+     "asset": "Williams Companies, Inc. (The) Common Stock Option Type: Call Strike price: $75.00 Expires: 2026-08-21",
+     "asset_type": "Stock Option",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "All transactions notified to Filer on September 1, 2026"
+    }
+   ]
+  },
+  {
+   "uuid": "028aef33-dc0d-44a1-992f-aa35ee42685b",
+   "kind": "ptr",
+   "first": "A. Mitchell",
+   "last": "McConnell, Jr.",
+   "office": "McConnell, A. Mitchell Jr. (Senator)",
+   "title": "Periodic Transaction Report for 09/21/2026",
+   "filed": "2026-09-21",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/028aef33-dc0d-44a1-992f-aa35ee42685b/",
+   "state": null,
+   "transactions": [
+    {
+     "date": "09/01/2026",
+     "owner": "Spouse",
+     "ticker": "WFC",
+     "asset": "Wells Fargo & Company Common Stock",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$15,001 - $50,000",
+     "comment": "Dividend reinvestment"
+    }
+   ]
+  },
+  {
+   "uuid": "0a93a20c-2a0f-4979-80ca-cc2f61297527",
+   "kind": "ptr",
+   "first": "James Conley",
+   "last": "Justice, II",
+   "office": "Justice II,  James Conley (Senator)",
+   "title": "Periodic Transaction Report for 09/28/2026",
+   "filed": "2026-09-28",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/0a93a20c-2a0f-4979-80ca-cc2f61297527/",
+   "state": null,
+   "transactions": [
+    {
+     "date": "08/14/2026",
+     "owner": "Self",
+     "ticker": "--",
+     "asset": "Greenbrier Hotel Corporation and Affiliates Company: Greenbrier Hotel Corporation and Affiliates (White Sulphur Springs, WV) Description: Hospitality",
+     "asset_type": "Non-Public Stock",
+     "type": "Sale (Partial)",
+     "amount": "Over $50,000,000",
+     "comment": "--"
+    }
+   ]
+  },
+  {
+   "uuid": "9e2ff733-aeac-4ce8-872c-3d6b7913da88",
+   "kind": "ptr",
+   "first": "Richard",
+   "last": "Blumenthal",
+   "office": "Blumenthal, Richard (Senator)",
+   "title": "Periodic Transaction Report for 09/28/2026",
+   "filed": "2026-09-28",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/9e2ff733-aeac-4ce8-872c-3d6b7913da88/",
+   "state": "CT",
+   "transactions": [
+    {
+     "date": "09/11/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "Not Fade Away LLC Company: Not Fade Away LLC (New York, NY) Description: Hedge Fund",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "Underlying Asset of Other One LLC"
+    },
+    {
+     "date": "09/11/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "Not Fade Away LLC Company: Not Fade Away LLC (New York, NY) Description: Hedge Fund",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$15,001 - $50,000",
+     "comment": "Underlying Asset of Hedge Holdings LLC"
+    },
+    {
+     "date": "09/11/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "Not Fade Away LLC Company: Not Fade Away LLC (New York, NY) Description: Hedge Fund",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$50,001 - $100,000",
+     "comment": "Underlying Asset of Summa I LLC"
+    },
+    {
+     "date": "09/11/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "Not Fade Away LLC Company: Not Fade Away LLC (New York, NY) Description: Hedge Fund",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$50,001 - $100,000",
+     "comment": "Underlying Asset of LarryMae Partners LLC"
+    },
+    {
+     "date": "09/11/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "Not Fade Away LLC Company: Not Fade Away LLC (New York, NY) Description: Hedge Fund",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "Underlying Asset of 3M's Partners LLC"
+    },
+    {
+     "date": "09/11/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "Not Fade Away LLC Company: Not Fade Away LLC (New York, NY) Description: Hedge Fund",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$15,001 - $50,000",
+     "comment": "Underlying asset of 3M's Partners LLC, owned through Peter L. Malkin Family 9 LLC"
+    },
+    {
+     "date": "09/11/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "Not Fade Away LLC Company: Not Fade Away LLC (New York, NY) Description: Hedge Fund",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$250,001 - $500,000",
+     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC"
+    },
+    {
+     "date": "09/11/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "Not Fade Away LLC Company: Not Fade Away LLC (New York, NY) Description: Hedge Fund",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$250,001 - $500,000",
+     "comment": "Underlying Asset of Peter L. Malkin Family 9 LLC"
+    },
+    {
+     "date": "08/27/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "Days Between LLC Company: Days Between LLC (New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$15,001 - $50,000",
+     "comment": "Underlying Asset of New Things Partners LLC"
+    },
+    {
+     "date": "08/27/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "Days Between LLC Company: Days Between LLC (New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$250,001 - $500,000",
+     "comment": "Underlying Asset of Summa I LLC"
+    },
+    {
+     "date": "08/27/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC"
+    },
+    {
+     "date": "08/27/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "Days Between LLC Company: Days Between LLC (New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$100,001 - $250,000",
+     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC"
+    },
+    {
+     "date": "08/27/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "Underlying Asset of Peter L. Malkin Family 9 LLC"
+    },
+    {
+     "date": "08/24/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "Underlying Asset of New Things Partners LLC"
+    },
+    {
+     "date": "08/24/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "Underlying Asset of Other One LLC"
+    },
+    {
+     "date": "08/24/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "Underlying Asset of Hedge Holdings LLC"
+    },
+    {
+     "date": "08/24/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "Underlying Asset of Summa I LLC"
+    },
+    {
+     "date": "08/24/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$15,001 - $50,000",
+     "comment": "Underlying Asset of LarryMae Partners LLC"
+    },
+    {
+     "date": "08/24/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "Underlying asset of 3M's Partners LLC"
+    },
+    {
+     "date": "08/24/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "Underlying asset of 3M's Partners LLC, owned through Peter L. Malkin Family 9 LLC"
+    },
+    {
+     "date": "08/24/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC"
+    },
+    {
+     "date": "08/24/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$50,001 - $100,000",
+     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC"
+    },
+    {
+     "date": "08/24/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$15,001 - $50,000",
+     "comment": "Underlying Asset of Peter L. Malkin Family 9 LLC"
+    },
+    {
+     "date": "08/24/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "Underlying Asset of Peter L. Malkin Family 9 LLC"
+    },
+    {
+     "date": "08/19/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "Underlying Asset of New Things Partners LLC"
+    },
+    {
+     "date": "08/19/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Sale (Partial)",
+     "amount": "$15,001 - $50,000",
+     "comment": "Underlying Asset of Other One LLC"
+    },
+    {
+     "date": "08/19/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Sale (Partial)",
+     "amount": "$15,001 - $50,000",
+     "comment": "Underlying Asset of Hedge Holdings LLC"
+    },
+    {
+     "date": "08/19/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Sale (Partial)",
+     "amount": "$50,001 - $100,000",
+     "comment": "Underlying Asset of Summa I LLC"
+    },
+    {
+     "date": "08/19/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Sale (Partial)",
+     "amount": "$50,001 - $100,000",
+     "comment": "Underlying Asset of LarryMae Partners LLC"
+    },
+    {
+     "date": "08/19/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "Underlying Asset of 3M's Partners LLC"
+    },
+    {
+     "date": "08/19/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Sale (Partial)",
+     "amount": "$15,001 - $50,000",
+     "comment": "Underlying asset of 3M's Partners LLC, owned through Peter L. Malkin Family 9 LLC"
+    },
+    {
+     "date": "08/19/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Sale (Partial)",
+     "amount": "$250,001 - $500,000",
+     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC"
+    },
+    {
+     "date": "08/19/2026",
+     "owner": "Spouse",
+     "ticker": "--",
+     "asset": "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Sale (Partial)",
+     "amount": "$100,001 - $250,000",
+     "comment": "Underlying Asset of Peter L. Malkin Family 9 LLC"
+    }
+   ]
+  },
+  {
+   "uuid": "6bf3b6f7-9e1b-499a-bd5a-990292ce2e72",
+   "kind": "ptr",
+   "first": "Sheldon",
+   "last": "Whitehouse",
+   "office": "Whitehouse, Sheldon (Senator)",
+   "title": "Periodic Transaction Report for 10/01/2026",
+   "filed": "2026-10-01",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/6bf3b6f7-9e1b-499a-bd5a-990292ce2e72/",
+   "state": "RI",
+   "transactions": [
+    {
+     "date": "09/04/2026",
+     "owner": "Spouse",
+     "ticker": "JPM",
+     "asset": "JP Morgan Chase & Co. Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "09/04/2026",
+     "owner": "Spouse",
+     "ticker": "ADI",
+     "asset": "Analog Devices, Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "09/04/2026",
+     "owner": "Spouse",
+     "ticker": "V",
+     "asset": "Visa Inc.",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "09/04/2026",
+     "owner": "Self",
+     "ticker": "V",
+     "asset": "Visa Inc.",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "09/04/2026",
+     "owner": "Self",
+     "ticker": "JPM",
+     "asset": "JP Morgan Chase & Co. Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    }
+   ]
+  },
+  {
+   "uuid": "0541be4f-4f96-4d84-8d6f-d349f218bb2a",
+   "kind": "ptr",
+   "first": "John",
+   "last": "Fetterman",
+   "office": "Fetterman, John (Senator)",
+   "title": "Periodic Transaction Report for 10/07/2026",
+   "filed": "2026-10-07",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/0541be4f-4f96-4d84-8d6f-d349f218bb2a/",
+   "state": "PA",
+   "transactions": [
+    {
+     "date": "09/16/2026",
+     "owner": "Child",
+     "ticker": "--",
+     "asset": "DELL INTL LLC/EMC CORP Rate/Coupon: 5.6% Matures: 2033-09-15",
+     "asset_type": "Corporate Bond",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "09/15/2026",
+     "owner": "Child",
+     "ticker": "--",
+     "asset": "DELL INTL LLC/EMC CORP Rate/Coupon: 5.6% Matures: 2033-09-15",
+     "asset_type": "Corporate Bond",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    }
+   ]
+  }
+ ]
+}
