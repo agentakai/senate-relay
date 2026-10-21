@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T09:31:02.458598+00:00",
+ "generated_at": "2026-10-21T11:54:02.008056+00:00",
  "window_days": 60,
  "since": "2026-08-22",
  "filings": [
@@ -1018,7 +1018,7 @@
    "title": "Periodic Transaction Report for 09/14/2026",
    "filed": "2026-09-14",
    "url": "https://efdsearch.senate.gov/search/view/ptr/e67c6e56-c81e-4e74-b960-849a460165e2/",
-   "state": null,
+   "state": "ME",
    "transactions": [
     {
      "date": "08/05/2026",
@@ -1094,7 +1094,7 @@
    "title": "Periodic Transaction Report for 09/21/2026",
    "filed": "2026-09-21",
    "url": "https://efdsearch.senate.gov/search/view/ptr/028aef33-dc0d-44a1-992f-aa35ee42685b/",
-   "state": null,
+   "state": "KY",
    "transactions": [
     {
      "date": "09/01/2026",
@@ -1117,7 +1117,7 @@
    "title": "Periodic Transaction Report for 09/28/2026",
    "filed": "2026-09-28",
    "url": "https://efdsearch.senate.gov/search/view/ptr/0a93a20c-2a0f-4979-80ca-cc2f61297527/",
-   "state": null,
+   "state": "WV",
    "transactions": [
     {
      "date": "08/14/2026",
