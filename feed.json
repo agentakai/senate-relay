@@ -1,31 +1,8 @@
 {
- "generated_at": "2026-11-13T01:39:41.487664+00:00",
+ "generated_at": "2026-11-14T01:33:53.685130+00:00",
  "window_days": 60,
- "since": "2026-09-14",
+ "since": "2026-09-15",
  "filings": [
-  {
-   "uuid": "e67c6e56-c81e-4e74-b960-849a460165e2",
-   "kind": "ptr",
-   "first": "Angus S",
-   "last": "King, Jr.",
-   "office": "King, Angus (Senator)",
-   "title": "Periodic Transaction Report for 09/14/2026",
-   "filed": "2026-09-14",
-   "url": "https://efdsearch.senate.gov/search/view/ptr/e67c6e56-c81e-4e74-b960-849a460165e2/",
-   "state": "ME",
-   "transactions": [
-    {
-     "date": "08/05/2026",
-     "owner": "Spouse",
-     "ticker": "--",
-     "asset": "EA - Electronic Arts Inc",
-     "asset_type": "Stock",
-     "type": "Sale (Full)",
-     "amount": "$15,001 - $50,000",
-     "comment": "--"
-    }
-   ]
-  },
   {
    "uuid": "b999bc0e-3eb0-4ca9-ab07-8e8f2e04b41f",
    "kind": "ptr",
