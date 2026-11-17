@@ -1,61 +1,8 @@
 {
- "generated_at": "2026-11-15T01:40:06.254011+00:00",
+ "generated_at": "2026-11-17T08:16:24.290635+00:00",
  "window_days": 60,
- "since": "2026-09-16",
+ "since": "2026-09-18",
  "filings": [
-  {
-   "uuid": "b999bc0e-3eb0-4ca9-ab07-8e8f2e04b41f",
-   "kind": "ptr",
-   "first": "Alan",
-   "last": "Armstrong",
-   "office": "Armstrong, Alan (Senator)",
-   "title": "Periodic Transaction Report for 09/17/2026",
-   "filed": "2026-09-17",
-   "url": "https://efdsearch.senate.gov/search/view/ptr/b999bc0e-3eb0-4ca9-ab07-8e8f2e04b41f/",
-   "state": "OK",
-   "transactions": [
-    {
-     "date": "08/20/2026",
-     "owner": "Joint",
-     "ticker": "WMB",
-     "asset": "Williams Companies, Inc. (The) Common Stock Option Type: Call Strike price: $75.00 Expires: 2026-08-21",
-     "asset_type": "Stock Option",
-     "type": "Purchase",
-     "amount": "$15,001 - $50,000",
-     "comment": "--"
-    },
-    {
-     "date": "08/04/2026",
-     "owner": "Joint",
-     "ticker": "--",
-     "asset": "Electronic Arts Inc. (EA)",
-     "asset_type": "Stock",
-     "type": "Sale (Full)",
-     "amount": "$1,001 - $15,000",
-     "comment": "Sale due to corporate transaction"
-    },
-    {
-     "date": "08/14/2026",
-     "owner": "Joint",
-     "ticker": "--",
-     "asset": "AvalonBay Communities, Inc. Common Stock (AVB) (Exchanged) VMRK - Vivmark Residential Common Shares of Beneficial Interest (Received)",
-     "asset_type": "Stock",
-     "type": "Exchange",
-     "amount": "$1,001 - $15,000",
-     "comment": "--"
-    },
-    {
-     "date": "08/19/2026",
-     "owner": "Joint",
-     "ticker": "WMB",
-     "asset": "Williams Companies, Inc. (The) Common Stock Option Type: Call Strike price: $75.00 Expires: 2026-08-21",
-     "asset_type": "Stock Option",
-     "type": "Purchase",
-     "amount": "$1,001 - $15,000",
-     "comment": "All transactions notified to Filer on September 1, 2026"
-    }
-   ]
-  },
   {
    "uuid": "028aef33-dc0d-44a1-992f-aa35ee42685b",
    "kind": "ptr",
