@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-25T08:57:11.626401+00:00",
+ "generated_at": "2026-11-26T08:43:56.744950+00:00",
  "window_days": 60,
- "since": "2026-09-26",
+ "since": "2026-09-27",
  "filings": [
   {
    "uuid": "0a93a20c-2a0f-4979-80ca-cc2f61297527",
@@ -1978,6 +1978,49 @@
      "type": "Purchase",
      "amount": "$250,001 - $500,000",
      "comment": "Underlying Asset of Peter L. Malkin Family 9 LLC"
+    }
+   ]
+  },
+  {
+   "uuid": "99dc7269-2f99-4c8b-8d0c-a3a91328af84",
+   "kind": "ptr",
+   "first": "Rand",
+   "last": "Paul",
+   "office": "Paul, Rand (Senator)",
+   "title": "Periodic Transaction Report for 11/25/2026",
+   "filed": "2026-11-25",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/99dc7269-2f99-4c8b-8d0c-a3a91328af84/",
+   "state": "KY",
+   "transactions": [
+    {
+     "date": "11/05/2026",
+     "owner": "Self",
+     "ticker": "NVDA",
+     "asset": "NVIDIA Corporation - Common Stock",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "11/07/2026",
+     "owner": "Self",
+     "ticker": "NVDA",
+     "asset": "NVIDIA Corporation - Common Stock",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "11/09/2026",
+     "owner": "Self",
+     "ticker": "NVDA",
+     "asset": "NVIDIA Corporation - Common Stock",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
     }
    ]
   }
